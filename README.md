@@ -1,4 +1,4 @@
-# ⚽ Webscraping, Premier League 2024/2025 Season Data
+# ⚽ Webscraping: Premier League 2024/2025 Season Data
 
 This project automates the scraping of Premier League statistics for the 2024/2025 season from [FBRef](https://fbref.com/en/comps/9/Premier-League-Stats) and exports the cleaned data to a structured Google Sheets document.
 
