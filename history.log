@@ -1,0 +1,85 @@
+2025-05-10 08:06:56,838: ERROR: Authentication failed: expected str, bytes or os.PathLike object, not NoneType
+2025-05-10 08:20:14,687: INFO: Successfully authenticated with Google Sheets.
+2025-05-10 08:20:17,377: INFO: Google Sheet cleaned and ready for new data.
+2025-05-10 08:20:34,567: ERROR: Failed to scrape fbref page: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-10 08:25:46,434: INFO: Successfully authenticated with Google Sheets.
+2025-05-10 08:25:49,118: INFO: Google Sheet cleaned and ready for new data.
+2025-05-10 08:25:53,437: INFO: Successfully scraped and parsed the fbref page.
+2025-05-10 08:25:53,455: ERROR: Error processing table 'Premier League Table_results2024-202591_overall': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,464: ERROR: Error processing table 'Premier League Table_results2024-202591_home_away': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,475: ERROR: Error processing table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,485: ERROR: Error processing table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,494: ERROR: Error processing table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,501: ERROR: Error processing table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,512: ERROR: Error processing table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,522: ERROR: Error processing table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,529: ERROR: Error processing table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,535: ERROR: Error processing table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,546: ERROR: Error processing table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,556: ERROR: Error processing table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,561: ERROR: Error processing table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,567: ERROR: Error processing table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,575: ERROR: Error processing table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,580: ERROR: Error processing table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,586: ERROR: Error processing table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,593: ERROR: Error processing table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,600: ERROR: Error processing table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,609: ERROR: Error processing table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,616: ERROR: Error processing table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,624: ERROR: Error processing table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,630: ERROR: Error processing table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:25:53,637: ERROR: Error processing table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:26,993: INFO: Authenticated with Google Sheets.
+2025-05-10 08:29:29,591: INFO: Google Sheet reset complete.
+2025-05-10 08:29:33,832: INFO: Page scraped successfully.
+2025-05-10 08:29:33,851: ERROR: Error in table 'Premier League Table_results2024-202591_overall': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,862: ERROR: Error in table 'Premier League Table_results2024-202591_home_away': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,872: ERROR: Error in table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,884: ERROR: Error in table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,890: ERROR: Error in table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,903: ERROR: Error in table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,916: ERROR: Error in table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,924: ERROR: Error in table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,932: ERROR: Error in table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,938: ERROR: Error in table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,948: ERROR: Error in table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,955: ERROR: Error in table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,963: ERROR: Error in table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,972: ERROR: Error in table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,979: ERROR: Error in table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,985: ERROR: Error in table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,990: ERROR: Error in table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:33,999: ERROR: Error in table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,007: ERROR: Error in table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,017: ERROR: Error in table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,024: ERROR: Error in table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,033: ERROR: Error in table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,039: ERROR: Error in table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:29:34,049: ERROR: Error in table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:27,903: INFO: Authenticated with Google Sheets.
+2025-05-10 08:30:30,404: INFO: Google Sheet reset complete.
+2025-05-10 08:30:35,602: INFO: Page scraped successfully.
+2025-05-10 08:30:35,617: ERROR: Error in table 'Premier League Table_results2024-202591_overall': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,625: ERROR: Error in table 'Premier League Table_results2024-202591_home_away': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,635: ERROR: Error in table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,644: ERROR: Error in table 'Squad Standard Stats2024-2025 Premier LeagueTable_stats_squads_standard_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,651: ERROR: Error in table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,657: ERROR: Error in table 'Squad Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,665: ERROR: Error in table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,673: ERROR: Error in table 'Squad Advanced Goalkeeping2024-2025 Premier LeagueTable_stats_squads_keeper_adv_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,678: ERROR: Error in table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,686: ERROR: Error in table 'Squad Shooting2024-2025 Premier LeagueTable_stats_squads_shooting_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,693: ERROR: Error in table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,701: ERROR: Error in table 'Squad Passing2024-2025 Premier LeagueTable_stats_squads_passing_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,706: ERROR: Error in table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,711: ERROR: Error in table 'Squad Pass Types2024-2025 Premier LeagueTable_stats_squads_passing_types_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,718: ERROR: Error in table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,723: ERROR: Error in table 'Squad Goal and Shot Creation2024-2025 Premier LeagueTable_stats_squads_gca_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,729: ERROR: Error in table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,735: ERROR: Error in table 'Squad Defensive Actions2024-2025 Premier LeagueTable_stats_squads_defense_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,742: ERROR: Error in table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,751: ERROR: Error in table 'Squad Possession2024-2025 Premier LeagueTable_stats_squads_possession_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,758: ERROR: Error in table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,765: ERROR: Error in table 'Squad Playing Time2024-2025 Premier LeagueTable_stats_squads_playing_time_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,771: ERROR: Error in table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_for': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
+2025-05-10 08:30:35,779: ERROR: Error in table 'Squad Miscellaneous Stats2024-2025 Premier LeagueTable_stats_squads_misc_against': Missing optional dependency 'lxml'.  Use pip or conda to install lxml.
